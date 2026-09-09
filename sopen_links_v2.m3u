@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="sport",DAZN1
+http://194.37.80.223:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0
+#EXTINF:-1 tvg-logo="" group-title="sport",DAZN LaLiga
+http://194.37.80.223:6878/ace/getstream?infohash=8a25653a2f774f4ae1062d38a30dcd714d304a3a
+#EXTINF:-1 tvg-logo="" group-title="sport",M. LaLiga 2
+http://194.37.80.223:6878/ace/getstream?infohash=ece9d873508195d3cbb61d4edd428b59f47a1541
+#EXTINF:-1 tvg-logo="" group-title="sport",DAZN2
+http://194.37.80.223:6878/ace/getstream?infohash=c93a0d4914713db942fbb210bac467b0224c63a6
+#EXTINF:-1 tvg-logo="" group-title="sport",M. LaLiga 4
+http://194.37.80.223:6878/ace/getstream?infohash=4406d0bf8ce6ff77e13891a4e7a6e2fea124e4fb
+#EXTINF:-1 tvg-logo="" group-title="sport",DAZN4
+http://194.37.80.223:6878/ace/getstream?infohash=c21a2524a8de3e1e5b126f2677a3e993d9aa07c4
+#EXTINF:-1 tvg-logo="" group-title="sport",DAZN3
+http://194.37.80.223:6878/ace/getstream?infohash=98fba924421aa1e4bd28e74d74a2726d0459b594
+#EXTINF:-1 tvg-logo="" group-title="sport",M. LaLiga 3
+http://194.37.80.223:6878/ace/getstream?infohash=b24546262982de27283bb378307bb427509ed814
+#EXTINF:-1 tvg-logo="http://c1.torrentstream.info/epg/icons/27335.png" group-title="regional",DAZN 1 Bar HD [DE]
+http://194.37.80.223:6878/ace/getstream?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
+#EXTINF:-1 tvg-logo="http://c1.torrentstream.info/epg/icons/27336.png" group-title="regional",DAZN 2 Bar HD [DE]
+http://194.37.80.223:6878/ace/getstream?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
+#EXTINF:-1 tvg-logo="" group-title="amateur",M+ LaLiga 1080 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top [1]
+http://194.37.80.223:6878/ace/getstream?infohash=dbda04d453b5ac2569e8bc5a72e05a2d62e4aaae
+#EXTINF:-1 tvg-logo="" group-title="amateur",M+ LaLiga 1080 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top [2]
+http://194.37.80.223:6878/ace/getstream?infohash=aa424722346ef7060ce60f485c5a9b38e742f62a
+#EXTINF:-1 tvg-logo="" group-title="amateur",Movistar LaLiga Shickat | shickat.online (VPN) | shickat.blog | https://ipfs.io/ipns/k51qzi5uqu5dgni30z98zbli9a3vv2xtp8cek1xjikfsels3a259i5clyta19p
+http://194.37.80.223:6878/ace/getstream?infohash=30587e0179d2aabda03e0e5194593f875242256f
+#EXTINF:-1 tvg-logo="" group-title="amateur",M+ LaLiga 2 1080 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top
+http://194.37.80.223:6878/ace/getstream?infohash=4348397f8d917ea94bf28a36db59c17e2f48f466
+#EXTINF:-1 tvg-logo="" group-title="amateur",laliga tv hypermotion 720 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top
+http://194.37.80.223:6878/ace/getstream?infohash=f996be469a37cfe62f25565669010c6d367d8686
+#EXTINF:-1 tvg-logo="" group-title="amateur",DAZN LaLiga Shickat | shickat.online (VPN) | shickat.blog | https://ipfs.io/ipns/k51qzi5uqu5dgni30z98zbli9a3vv2xtp8cek1xjikfsels3a259i5clyta19p
+http://194.37.80.223:6878/ace/getstream?infohash=5437f76710c6cf7769e4a101ee52a6f4d4b39745
+#EXTINF:-1 tvg-logo="" group-title="amateur",LaLiga Hypermotion Shickat | shickat.online (VPN) | shickat.blog | https://ipfs.io/ipns/k51qzi5uqu5dgni30z98zbli9a3vv2xtp8cek1xjikfsels3a259i5clyta19p
+http://194.37.80.223:6878/ace/getstream?infohash=9c13dc7ff2214e08a9f83fd8f1e7673b674e9af9
+#EXTINF:-1 tvg-logo="" group-title="amateur",M+ LaLiga 2 720 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top
+http://194.37.80.223:6878/ace/getstream?infohash=a369c59a76949174d9f507e7635afc8ba9175ae6
